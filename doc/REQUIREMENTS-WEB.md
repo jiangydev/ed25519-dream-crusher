@@ -62,7 +62,7 @@ Ed25519 Dream Crusher
    ```
 
 ## 技术栈
-- 框架：Next.js 14（App Router） + TypeScript
+- 框架：Next.js 16（App Router） + TypeScript
 - UI：Tailwind CSS + shadcn/ui（完全符合要求）
 - 椭圆曲线库：@noble/curves（纯 JS、高性能、支持 ed25519）
 - 状态管理：React Context / useState（轻量、单实例）
