@@ -254,7 +254,7 @@ export default function HomePage() {
                   ) : (
                     <>
                       <Zap className="w-4 h-4 mr-2" />
-                      开始攻击
+                      开始玩耍
                     </>
                   )}
                 </Button>
@@ -387,7 +387,7 @@ export default function HomePage() {
       <footer className="border-t border-border/40 mt-auto">
         <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
           <p className="mb-2">
-            ⚠️ 本项目纯属娱乐和教育用途。Ed25519 在经典计算机上目前是安全的。请勿用于任何非法行为。
+            ⚠️ 本项目纯属娱乐和教育用途。Ed25519 在经典计算机上目前是安全的。
           </p>
           <p className="text-xs">
             Powered by Next.js + shadcn/ui + @noble/curves
@@ -415,7 +415,7 @@ export default function HomePage() {
               </>
             ) : (
               <>
-                <p>你正在对真实 Ed25519 公钥发起 Pollard's Rho 攻击</p>
+                <p>你正在对真实 Ed25519 公钥发起 Pollard's Rho 破解</p>
                 <p>理论需要约 2¹²⁶ 次操作</p>
                 <p>按地球上最快电脑算，也要等 10³⁰ 年以上</p>
                 <p>这纯粹是娱乐、教育、以及对数学难度的致敬</p>

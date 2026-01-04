@@ -15,7 +15,7 @@
 
 Breaking Ed25519 on a classical computer is computationally infeasible. The group order is approximately 2^252, meaning even with Pollard's Rho algorithm (which has O(sqrt(n)) complexity), you would need approximately 2^126 operations. At current computing speeds, this would take longer than the age of the universe.
 
-**Please do not use this script for any illegal activities. Ed25519 remains secure on classical computers.**
+**Ed25519 remains secure on classical computers.**
 
 ---
 
@@ -158,7 +158,6 @@ ed25519-dream-crusher/
 
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  DISCLAIMER: This script is for ENTERTAINMENT purposes only.        ║
-  ║  Please do not use this for any illegal activities.                 ║
   ║  Ed25519 is currently secure on classical computers.                ║
   ╚══════════════════════════════════════════════════════════════════════╝
 

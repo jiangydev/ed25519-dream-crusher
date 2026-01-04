@@ -11,7 +11,6 @@ The group order is approximately 2^252, meaning even with Pollard's Rho algorith
 (which has O(sqrt(n)) complexity), you would need approximately 2^126 operations.
 At current computing speeds, this would take longer than the age of the universe.
 
-Please do not use this script for any illegal activities.
 Ed25519 remains secure on classical computers.
 """
 
@@ -328,9 +327,8 @@ def main():
     # Safety and ethical disclaimer
     print("  ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗")
     print("  ║  DISCLAIMER: This script is for ENTERTAINMENT purposes only.                                            ║")
-    print("  ║  Please do not use this for any illegal activities.                                                     ║")
     print("  ║  Ed25519 is currently secure on classical computers. The probability of success is essentially zero.😌  ║")
-    print("  ║  免责声明：本脚本仅供娱乐用途。请勿将其用于任何非法活动。                                                        ║")
+    print("  ║  免责声明：本脚本仅供娱乐用途。                                                                              ║")
     print("  ║  Ed25519 目前在传统计算机上运行安全，成功的概率几乎为零。😌                                                     ║")
     print("  ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝")
     print()
@@ -417,9 +415,8 @@ Examples:
     print()
     print("  ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗")
     print("  ║  This script is for ENTERTAINMENT purposes only.                                                        ║")
-    print("  ║  Please do not use this for any illegal activities.                                                     ║")
     print("  ║  Ed25519 is currently secure on classical computers. The probability of success is essentially zero.😌  ║")
-    print("  ║  本脚本仅供娱乐用途。请勿将其用于任何非法活动。                                                        ║")
+    print("  ║  本脚本仅供娱乐用途。                                                                                       ║")
     print("  ║  Ed25519 目前在传统计算机上运行安全，成功的概率几乎为零。😌                                                     ║")
     print("  ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝")
     print()

@@ -157,7 +157,7 @@ export function usePollardRho(): UsePollardRhoReturn {
         iteration: 0,
         speed: 0,
         remainingTime: calculateRemainingTime(0, 1).text,
-        message: '🚀 攻击已启动！龟龟和兔兔开始冒险～ 🐢🐇',
+        message: '🚀 破解已启动！龟龟和兔兔开始冒险～ 🐢🐇',
       });
     } catch (error) {
       console.error('[usePollardRho.start] Error:', error);
